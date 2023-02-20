@@ -16,7 +16,7 @@ http://sansat.net:25461/02028185387121/8387878311/101930
 #EXTINF:-1 tvg-ID="channel9.il" tvg-name="IL: CHANNEL 9 HD" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Channel_9_HD_IL.png" group-title="חדשות",IL: CHANNEL 9 HD
 http://sansat.net:25461/02028185387121/8387878311/101931
 #EXTINF:-1 tvg-ID="channel11.il" tvg-name="IL: CHANNEL 11" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Kan_11_IL.png" group-title="חדשות",IL: CHANNEL 11
-http://sansat.net:25461/02028185387121/8387878311/101932
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IL: CHANNEL 12" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/CHANNEL_12_HD_IL.png" group-title="חדשות",IL: CHANNEL 12
 http://sansat.net:25461/02028185387121/8387878311/101933
 #EXTINF:-1 tvg-ID="" tvg-name="IL: CHANNEL 13" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/CHANNEL_13_HD_IL.png" group-title="חדשות",IL: CHANNEL 13
