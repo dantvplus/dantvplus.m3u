@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="channel11.il" tvg-name="IL: CHANNEL 11" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/Kan_11_IL.png" group-title="חדשות",IL: CHANNEL 11
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/source1_4k/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="IL: CHANNEL 13" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/CHANNEL_13_HD_IL.png" group-title="חדשות",IL: CHANNEL 13
+https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8?_uid=fb5dace2-0fa9-4de0-a8f6-e710f2cb98d5&rK=a3
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Teen Wolf: The Movie 2023" tvg-logo="https://www.themoviedb.org/t/p/original/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg" group-title="אקשן",Teen Wolf: The Movie 2023
+https://cdn.jwplayer.com/videos/ZldplG9D-UazI0Svu.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Plane 2023" tvg-logo="https://www.themoviedb.org/t/p/original/7QmKrktey3bH1Zn2CoqMiYVPHyy.jpg" group-title="אקשן",Plane 2023
+https://cdn.jwplayer.com/videos/zRGFvUOe-OABzGIbP.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Ant-Man and the Wasp" tvg-logo="https://www.themoviedb.org/t/p/original/ckx5fntFs24mdPfC5Z1I0LsOGFd.jpg" group-title="אקשן",Ant-Man and the Wasp
+https://cdn.jwplayer.com/videos/W1bNGMbw-MdukXFTK.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="The Bourne Legacy" tvg-logo="https://www.themoviedb.org/t/p/original/1aExL5DTGHj25ZfIC3dDwS84RWi.jpg" group-title="אקשן",The Bourne Legacy
+https://cdn.jwplayer.com/videos/GFPuCkQE-MdukXFTK.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dual 2022" tvg-logo="https://www.themoviedb.org/t/p/original/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg" group-title="קומדיה",Dual 2022
+https://cdn.jwplayer.com/videos/h6wzExRK-5YbeUvNx.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Harry Potter 1: and the Philosopher's Stone" tvg-logo="https://www.themoviedb.org/t/p/original/pE280RjO3rfOlnbjhcdykD65pBw.jpg" group-title="סרטי הארי פוטר",Harry Potter 1: and the Philosopher's Stone
+https://link.storjshare.io/s/juk3n73sgsch3vwqocqvr2vz5qhq/dantv/1080p%20BluRay%202001%20%D7%A0%D7%AA%D7%99%20%D7%9E%D7%93%D7%99%D7%94%20%D7%94%D7%90%D7%A8%D7%99%20%D7%A4%D7%95%D7%98%D7%A8%201.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Harry Potter 2: and the Chamber of Secrets" tvg-logo="https://www.themoviedb.org/t/p/original/Ari51aZjjIB93Ic3StSKkWpTGSV.jpg" group-title="סרטי הארי פוטר",Harry Potter 2: and the Chamber of Secrets
+https://link.storjshare.io/s/jxbj3nij62y3s3jhx6mnwoap55da/dantv/1080p%20BluRay%202002%20%D7%A0%D7%AA%D7%99%20%D7%9E%D7%93%D7%99%D7%94%20%D7%94%D7%90%D7%A8%D7%99%20%D7%A4%D7%95%D7%98%D7%A8%202.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Harry Potter 3: and the Prisoner of Azkaban" tvg-logo="https://www.themoviedb.org/t/p/original/eYF8Fvf7NKqCbnsg1dyUOIpcMU3.jpg" group-title="סרטי הארי פוטר",Harry Potter 3: and the Prisoner of Azkaban
+https://link.storjshare.io/s/ju74rqeytd2eykwcemuvqrtkncda/dantv/1080p%20BluRay%202004%20%D7%A0%D7%AA%D7%99%20%D7%9E%D7%93%D7%99%D7%94%20%D7%94%D7%90%D7%A8%D7%99%20%D7%A4%D7%95%D7%98%D7%A8%203.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Harry Potter 4: and the Goblet of Fire" tvg-logo="https://www.themoviedb.org/t/p/original/by1htevCt9ocXz9SGJKTtBSBXhA.jpg" group-title="סרטי הארי פוטר",Harry Potter 4: and the Goblet of Fire
+https://link.storjshare.io/s/jujkejqfzjwsjka2f743a5wuhkpq/dantv/1080p%20BluRay%202005%20%D7%A0%D7%AA%D7%99%20%D7%9E%D7%93%D7%99%D7%94%20%D7%94%D7%90%D7%A8%D7%99%20%D7%A4%D7%95%D7%98%D7%A8%204.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Harry Potter 5: and the Order of the Phoenix" tvg-logo="https://www.themoviedb.org/t/p/original/9dU4jfGPEtAVn4Tju7dScAJNMRB.jpg" group-title="סרטי הארי פוטר",Harry Potter 5: and the Order of the Phoenix
+https://link.storjshare.io/s/jwzulftzhnu4levjh4gt3k5heiqq/dantv/1080p%20BluRay%202007%20%D7%A0%D7%AA%D7%99%20%D7%9E%D7%93%D7%99%D7%94%20%D7%94%D7%90%D7%A8%D7%99%20%D7%A4%D7%95%D7%98%D7%A8%205.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Harry Potter 7: and the Deathly Hallows: Part 1" tvg-logo="https://www.themoviedb.org/t/p/original/d9txzOAugXQcsdfRfrainByPnQk.jpg" group-title="סרטי הארי פוטר",Harry Potter 7: and the Deathly Hallows: Part 1
+https://link.storjshare.io/s/jxu6rz54xhffxtg3ewqhqgr7igoq/dantv/1080p%20BluRay%202010%20%D7%A0%D7%AA%D7%99%20%D7%9E%D7%93%D7%99%D7%94%20%D7%94%D7%90%D7%A8%D7%99%20%D7%A4%D7%95%D7%98%D7%A8%207%20%D7%971.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Harry Potter 7: and the Deathly Hallows: Part 2" tvg-logo="https://www.themoviedb.org/t/p/original/g9N0DvVcjzvTFpINCr8SWcKb0ax.jpg" group-title="סרטי הארי פוטר",Harry Potter 7: and the Deathly Hallows: Part 2
+https://link.storjshare.io/s/jun7iyyy6jsoxlwawu47mhgliaua/dantv/1080p%20BluRay%202011%20%D7%A0%D7%AA%D7%99%20%D7%9E%D7%93%D7%99%D7%94%20%D7%94%D7%90%D7%A8%D7%99%20%D7%A4%D7%95%D7%98%D7%A8%207%20%D7%972.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Doctor Strange" tvg-logo="https://www.themoviedb.org/t/p/original/p84RNGLtzcYmJ1DtRjuLFMNLg8w.jpg" group-title="הרפתקאות",Doctor Strange
+https://link.storjshare.io/s/jxzvup6wxz7pe7er4hzpf5ziwcsa/dantv/1080p%20BluRay%202016%20%D7%96.%D7%9E%20%D7%93%D7%95%D7%A7%D7%98%D7%95%D7%A8%20%D7%A1%D7%98%D7%A8%D7%99%D7%99%D7%A0%D7%92%27%201.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Doctor Strange in the Multiverse of Madness" tvg-logo="https://www.themoviedb.org/t/p/original/czU4uyNOb9y0blO2M8D5yI9PRWU.jpg" group-title="הרפתקאות",Doctor Strange in the Multiverse of Madness
+https://link.storjshare.io/s/jxp5kf2664t3urfmvd52ek2lm67a/dantv/1080p%20WEB-DL%202022%20%D7%96.%D7%9E%20%D7%93%D7%95%D7%A7%D7%98%D7%95%D7%A8%20%D7%A1%D7%98%D7%A8%D7%99%D7%99%D7%A0%D7%92%27%202.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Beast" tvg-logo="https://www.themoviedb.org/t/p/original/5zh3EmGKrKOjux5gwgFPJnVb5Mn.jpg" group-title="הרפתקאות",Beast
+https://link.storjshare.io/s/jwrhhdtlv6d4m345mpbyqiyuqcsq/dantv/1080p%20BluRay%202022%20%D7%96%D7%99%D7%A8%D7%94%20%D7%9E%D7%93%D7%99%D7%94%20%D7%98%D7%A8%D7%A3.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Smile" tvg-logo="https://www.themoviedb.org/t/p/original/cygF2s32tTWPF9CdetRpJ3YgbeF.jpg" group-title="אימה",Smile
+https://link.storjshare.io/s/jxzutfuxk6pd577svbpo3qw6s4jq/dantv/1080p%20HC%20WEB-DL%202022%20%D7%96%D7%99%D7%A8%D7%94%20%D7%9E%D7%93%D7%99%D7%94%20%D7%A1%D7%9E%D7%99%D7%99%D7%9C.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="The Invitation" tvg-logo="https://www.themoviedb.org/t/p/original/tu4mFELMukh9BSxzLxVt60KT5BS.jpg" group-title="אימה",The Invitation
+https://link.storjshare.io/s/jv2yqusrttogorfgp46sjf7dvcmq/dantv/1080p%20BluRay%202022%20%D7%96%D7%99%D7%A8%D7%94%20%D7%9E%D7%93%D7%99%D7%94%20%D7%94%D7%94%D7%96%D7%9E%D7%A0%D7%94.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Babylon" tvg-logo="https://www.themoviedb.org/t/p/original/gbzgBLd3fYHHcF1AU8JLmiv8uGS.jpg" group-title="קומדיה",Babylon
+https://link.storjshare.io/s/jwktwvd7bsd7h5i5job62uhhwrca/demo-bucket/Babylon/%D7%91%D7%91%D7%99%D7%9C%D7%95%D7%9F.2022.1080p.WEBRip_mp4.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House Party" tvg-logo="https://www.themoviedb.org/t/p/original/KiyKR9m6h01eIvGObGmpt16U3F.jpg" group-title="קומדיה",House Party
+https://link.storjshare.io/s/jxq56woonwtwqbxtj7bz24lvucjq/demo-bucket/House%20Party/HOUSE%20PARTY%202023%20AMSI77.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Roald Dahl's Matilda the Musical" tvg-logo="https://www.themoviedb.org/t/p/original/yKKtMSIKVvFRT8L9J46ir8vIHkx.jpg" group-title="קומדיה",Roald Dahl's Matilda the Musical
+https://link.storjshare.io/s/jwbtvh2yfjttbxevxqgrjywc5pdq/demo-bucket/Matilda%20the%20Musical/1080p%20WEBRip%202022%20%D7%96.%D7%9E%20%D7%9E%D7%98%D7%99%D7%9C%D7%93%D7%94%20%D7%94%D7%9E%D7%97%D7%96%D7%9E%D7%A8.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="The Hunger Games" tvg-logo="https://www.themoviedb.org/t/p/original/jSiSj1HsmUPH8GtFI1rTJZsUJSN.jpg" group-title="הרפתקאות",The Hunger Games
+https://link.storjshare.io/s/jvg73hcxffxj3qt3d43wwgetmfaq/dantv/%D7%9E%D7%A9%D7%97%D7%A7%D7%99%20%D7%94%D7%A8%D7%A2%D7%91%201.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="The Hunger Games: Catching Fire" tvg-logo="https://www.themoviedb.org/t/p/original/5CKLK6lMQWzfnGNDkFApF8qqdP4.jpg" group-title="הרפתקאות",The Hunger Games: Catching Fire
+https://link.storjshare.io/s/jut5xcrp7qec6qxfolnhnrbytqma/dantv/%D7%9E%D7%A9%D7%97%D7%A7%D7%99%20%D7%94%D7%A8%D7%A2%D7%91%202.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House of the Dragon S01 E01" tvg-logo="https://www.themoviedb.org/t/p/original/6uV89adIAiBCL8CrkSbLfWXMrhd.jpg" group-title="אקשן והרפתקאות",House of the Dragon S01 E01
+https://link.storjshare.io/s/jwwkzpfzfpzrfypx53wjdoyp5ugq/houseofthedragon/%D7%91%D7%99%D7%AA_%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F_%D7%A21_%D7%A41_%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%95%D7%A1%D7%93%D7%A8%D7%95%D7%AA%F0%9F%93%BA%F0%9F%8E%AC.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House of the Dragon S01 E02" tvg-logo="https://www.themoviedb.org/t/p/original/6uV89adIAiBCL8CrkSbLfWXMrhd.jpg" group-title="אקשן והרפתקאות",House of the Dragon S01 E02
+https://link.storjshare.io/s/jxobstyejnjie4mde7byztaiqrya/houseofthedragon/%D7%91%D7%99%D7%AA_%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F_%D7%A21_%D7%A42_%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%95%D7%A1%D7%93%D7%A8%D7%95%D7%AA%F0%9F%93%BA%F0%9F%8E%AC.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House of the Dragon S01 E03" tvg-logo="https://www.themoviedb.org/t/p/original/6uV89adIAiBCL8CrkSbLfWXMrhd.jpg" group-title="אקשן והרפתקאות",House of the Dragon S01 E03
+https://link.storjshare.io/s/juuu6vvlc653xytrcl72em6xmusq/houseofthedragon/%D7%91%D7%99%D7%AA_%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F_%D7%A21_%D7%A43_%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%95%D7%A1%D7%93%D7%A8%D7%95%D7%AA%F0%9F%93%BA%F0%9F%8E%AC.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House of the Dragon S01 E04" tvg-logo="https://www.themoviedb.org/t/p/original/6uV89adIAiBCL8CrkSbLfWXMrhd.jpg" group-title="אקשן והרפתקאות",House of the Dragon S01 E04
+https://link.storjshare.io/s/jvsw7wvvrjfcfmwk555aouh7rhjq/houseofthedragon/%D7%91%D7%99%D7%AA_%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F_%D7%A21_%D7%A44_%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%95%D7%A1%D7%93%D7%A8%D7%95%D7%AA%F0%9F%93%BA%F0%9F%8E%AC.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House of the Dragon S01 E05" tvg-logo="https://www.themoviedb.org/t/p/original/6uV89adIAiBCL8CrkSbLfWXMrhd.jpg" group-title="אקשן והרפתקאות",House of the Dragon S01 E05
+https://link.storjshare.io/s/jxoas32u6zxh7n6k6ndvlboezeeq/houseofthedragon/%D7%91%D7%99%D7%AA_%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F_%D7%A21_%D7%A45_%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%95%D7%A1%D7%93%D7%A8%D7%95%D7%AA%F0%9F%93%BA%F0%9F%8E%AC.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House of the Dragon S01 E06" tvg-logo="https://www.themoviedb.org/t/p/original/6uV89adIAiBCL8CrkSbLfWXMrhd.jpg" group-title="אקשן והרפתקאות",House of the Dragon S01 E06
+https://link.storjshare.io/s/jwmbmb6sg75wgfxiyht3qvaucshq/houseofthedragon/%D7%91%D7%99%D7%AA_%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F_%D7%A21_%D7%A46_%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%95%D7%A1%D7%93%D7%A8%D7%95%D7%AA%F0%9F%93%BA%F0%9F%8E%AC.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House of the Dragon S01 E07" tvg-logo="https://www.themoviedb.org/t/p/original/6uV89adIAiBCL8CrkSbLfWXMrhd.jpg" group-title="אקשן והרפתקאות",House of the Dragon S01 E07
+https://link.storjshare.io/s/jv6egf6b24vqlgmw7ziibvw6nfxa/houseofthedragon/%D7%91%D7%99%D7%AA_%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F_%D7%A21_%D7%A47_%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%95%D7%A1%D7%93%D7%A8%D7%95%D7%AA%F0%9F%93%BA%F0%9F%8E%AC.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House of the Dragon S01 E08" tvg-logo="https://www.themoviedb.org/t/p/original/6uV89adIAiBCL8CrkSbLfWXMrhd.jpg" group-title="אקשן והרפתקאות",House of the Dragon S01 E08
+https://link.storjshare.io/s/jvasvtbgkttt5stexpmvap2h57ba/houseofthedragon/%D7%91%D7%99%D7%AA_%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F_%D7%A21_%D7%A48_%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%95%D7%A1%D7%93%D7%A8%D7%95%D7%AA%F0%9F%93%BA%F0%9F%8E%AC.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House of the Dragon S01 E09" tvg-logo="https://www.themoviedb.org/t/p/original/6uV89adIAiBCL8CrkSbLfWXMrhd.jpg" group-title="אקשן והרפתקאות",House of the Dragon S01 E09
+https://link.storjshare.io/s/juvhpl4eo74rrziqxsmfybbyc4gq/houseofthedragon/%D7%91%D7%99%D7%AA_%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F_%D7%A21_%D7%A49_%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%95%D7%A1%D7%93%D7%A8%D7%95%D7%AA%F0%9F%93%BA%F0%9F%8E%AC.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="House of the Dragon S01 E10" tvg-logo="https://www.themoviedb.org/t/p/original/6uV89adIAiBCL8CrkSbLfWXMrhd.jpg" group-title="אקשן והרפתקאות",House of the Dragon S01 E10
+https://link.storjshare.io/s/julg4rlqpihe7gc2v2y2sodo55ga/houseofthedragon/%D7%91%D7%99%D7%AA_%D7%94%D7%93%D7%A8%D7%A7%D7%95%D7%9F_%D7%A21_%D7%A410_%D7%90%D7%97%D7%A8%D7%95%D7%9F_%D7%9C%D7%A2%D7%95%D7%A0%D7%94%E2%9D%97%D7%A2%D7%93%D7%9B%D7%95%D7%A0%D7%99_%D7%A1%D7%A8%D7%98%D7%99%D7%9D_%D7%95%D7%A1%D7%93%D7%A8%D7%95%D7%AA%F0%9F%93%BA%F0%9F%8E%AC.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="High Heat" tvg-logo="https://www.themoviedb.org/t/p/original/mmD0NVdhiRiCu64YKem5GK5PSfy.jpg" group-title="קומדיה",High Heat
+https://link.storjshare.io/s/juyht7vx3qudoyeec5u6pejyul7a/demo-bucket/High%20Heat/1080p%20WEB%202022%20%D7%96%D7%99%D7%A8%D7%94%20%D7%9E%D7%93%D7%99%D7%94%20%D7%A2%D7%9C%20%D7%90%D7%A9%20%D7%92%D7%91%D7%95%D7%94%D7%94.mkv?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="The Menu" tvg-logo="https://www.themoviedb.org/t/p/original/ibhkdgn2RRNX8SFjaeaf2xs16bb.jpg" group-title="קומדיה",The Menu
+https://link.storjshare.io/s/juhbqvq6cevrri6yrwir5hcqrlrq/demo-bucket/The%20Menu/The.Menu.2022.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Blackout" tvg-logo="https://www.themoviedb.org/t/p/original/3hyAXp2AoDsipuFeOKESubC1lZN.jpg" group-title="אקשן",Blackout
+https://link.storjshare.io/s/jvscei52g66dezxeewhsjudlh6ea/demo-bucket/Blackout/Blackout.2022.1080p.WEBRip.AMSI77.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="East Side 2023 S01 E01" tvg-logo="https://kanstatic.azureedge.net/download/pictures/2023/2/15/imgid=94021_C.jpeg" group-title="East Side 2023 S01 E01
+https://link.storjshare.io/s/jxw7m2p4dmgd25sn3iqqr4lkijxq/dantv/East-Side_S1E1_1080p.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="The Sea Beast" tvg-logo="https://www.themoviedb.org/t/p/original/yMeSc5iDuROh3xMKAvWtB6vqCsj.jpg" group-title="מדובב",The Sea Beast
+https://link.storjshare.io/s/jw43vhza3agny2snisvmclwpx3ba/dantv/%D7%94%D7%9E%D7%A4%D7%9C%D7%A6%D7%AA%20%D7%9E%D7%94%D7%99%D7%9D%20-%20%D7%9E%D7%93%D7%95%D7%91%D7%91.mp4?wrap=0
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Incroyable mais vrai" tvg-logo="https://www.themoviedb.org/t/p/original/yBLlwTXweDzBKgEbYz5ZVTRQaZX.jpg" group-title="קומדיה",Incroyable mais vrai
+https://link.storjshare.io/s/jxiwswmdkejumxchd6maljoairqq/demo-bucket/Incroyable%20mais%20vrai/1080p%20BluRay%202022%20%D7%96.%D7%9E%20%D7%9C%D7%90%20%D7%99%D7%99%D7%90%D7%9E%D7%9F%20%D7%90%D7%91%D7%9C%20%D7%90%D7%9E%D7%99%D7%AA%D7%99.mkv?wrap=0
+
