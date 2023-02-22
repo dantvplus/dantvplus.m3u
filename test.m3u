@@ -3,8 +3,8 @@
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/source1_4k/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="IL: CHANNEL 13" tvg-logo="http://vodkom.com:25461/Logo/ISRAEL/CHANNEL_13_HD_IL.png" group-title="חדשות",IL: CHANNEL 13
 https://reshet.g-mana.live/media/87f59c77-03f6-4bad-a648-897e095e7360/profile/2/profileManifest.m3u8?_uid=fb5dace2-0fa9-4de0-a8f6-e710f2cb98d5&rK=a3
-#EXTINF:-1 tvg-id="" tvg-name="Teen Wolf: The Movie 2023" tvg-logo="https://www.themoviedb.org/t/p/original/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg" group-title="אקשן",Teen Wolf: The Movie 2023
-https://cdn.jwplayer.com/videos/ZldplG9D-UazI0Svu.mp4
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Teen Wolf: The Movie 2023" tvg-logo="https://www.themoviedb.org/t/p/original/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg" group-title="אקשן",Teen Wolf: The Movie 2023
+https://cdn.jwplayer.com/manifests/ZldplG9D.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Plane 2023" tvg-logo="https://www.themoviedb.org/t/p/original/7QmKrktey3bH1Zn2CoqMiYVPHyy.jpg" group-title="אקשן",Plane 2023
 https://cdn.jwplayer.com/videos/zRGFvUOe-OABzGIbP.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp" tvg-logo="https://www.themoviedb.org/t/p/original/ckx5fntFs24mdPfC5Z1I0LsOGFd.jpg" group-title="אקשן",Ant-Man and the Wasp
