@@ -1,0 +1,214 @@
+#EXTM3U
+#EXTINF:0 group-title="Israel" tvg-id="9-kanal-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/321babe4b69535b62b58880335577081.png" catchup-source="http://chopin.af-stream.com/9-kanal-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",9 Канал HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/9-kanal-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="11-kanal-il" tvg-logo="https://af-play.com/storage/images/channel_logos/6773deb8a03b790ed0c1e153d4309b28.png" catchup-source="http://chopin.af-stream.com/11-kanal-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Kan 11 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/11-kanal-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="12-kanal-il" tvg-logo="https://af-play.com/storage/images/pack_logos/4b9ab871a6266d2e476181eaa82e74ed.png" catchup-source="http://chopin.af-stream.com/12-kanal-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Keshet 12 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/12-kanal-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="13-kanal-il" tvg-logo="https://af-play.com/storage/images/pack_logos/9fb5e85f4bbf483460d2141954c325fa.png" catchup-source="http://chopin.af-stream.com/13-kanal-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Reshet 13 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/13-kanal-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="14-kanal-il" tvg-logo="https://af-play.com/storage/images/channel_logos/b6a9f45111dfa2d6bfcfa213cc7171fe.png" catchup-source="http://chopin.af-stream.com/14-kanal-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Ch 14
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/14-kanal-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="i24-il" tvg-logo="https://af-play.com/storage/images/pack_logos/83cfe85cc2320a6171de022ce71310a5.png" catchup-source="http://chopin.af-stream.com/i24-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",i24
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/i24-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-movies-action-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/035fbe13775f3e26d65faff432e09a6b.png" catchup-source="http://chopin.af-stream.com/yes-movies-action-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Yes Movies Action HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-movies-action-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-movies-comedy-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a2eb04cfdb14c1236f357c8a2c902183.png" catchup-source="http://chopin.af-stream.com/yes-movies-comedy-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Yes Movies Comedy HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-movies-comedy-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-movies-drama-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8dd7310854aad0f69f2c9b87232839a6.png" catchup-source="http://chopin.af-stream.com/yes-movies-drama-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Yes Movies Drama HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-movies-drama-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-movies-kids-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/802b69df911b4e41bb2c7c28e231e1ba.png" catchup-source="http://chopin.af-stream.com/yes-movies-kids-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Yes Movies KIDS HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-movies-kids-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-action-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/4d2acbd2d3ddcf1222ddda5839d371f5.png" catchup-source="http://chopin.af-stream.com/yes-action-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Yes TV Action HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-action-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-comedy-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/572da5c11f89984f64abcdef0043fc9a.png" catchup-source="http://chopin.af-stream.com/yes-comedy-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Yes TV Comedy HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-comedy-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-drama-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/4af2bd313ac46e72c3d1007c302173d3.png" catchup-source="http://chopin.af-stream.com/yes-drama-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Yes TV Drama HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-drama-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-cinema1-il" tvg-logo="https://af-play.com/storage/images/pack_logos/f14b95e0e8b95995de6e7accdba34762.png" catchup-source="http://chopin.af-stream.com/hot-cinema1-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",HOT Cinema 1 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-cinema1-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-cinema2-il" tvg-logo="https://af-play.com/storage/images/pack_logos/f18976e8a3236dbdabbb35f73f6e8988.png" catchup-source="http://chopin.af-stream.com/hot-cinema2-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",HOT Cinema 2 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-cinema2-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-cinema3-il" tvg-logo="https://af-play.com/storage/images/pack_logos/2edb1bb63076c75baacf2674ce8c8c37.png" catchup-source="http://chopin.af-stream.com/hot-cinema3-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",HOT Cinema 3 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-cinema3-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-cinema4-il" tvg-logo="https://af-play.com/storage/images/pack_logos/e055cf2620f58c60b1e65be4717d2c22.png" catchup-source="http://chopin.af-stream.com/hot-cinema4-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",HOT Cinema 4 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-cinema4-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-hbo-il" tvg-logo="https://af-play.com/storage/images/pack_logos/975f4ceae77675fc6cbd2da6c3c2ee9f.png" catchup-source="http://chopin.af-stream.com/hot-hbo-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",HBO HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-hbo-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-zone-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/1bb5cc5b621a35934729462387ecf894.png" catchup-source="http://chopin.af-stream.com/hot-zone-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Zone HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-zone-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="viva-il" tvg-logo="https://af-play.com/storage/images/pack_logos/69265037d112c78565f79a6188106bc8.png" catchup-source="http://chopin.af-stream.com/viva-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",VIVA HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/viva-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="viva-premium-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/96ebc157dae560177a987b96529b2fd3.png" catchup-source="http://chopin.af-stream.com/viva-premium-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Viva Premium HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/viva-premium-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="viva-plus-il" tvg-logo="https://af-play.com/storage/images/pack_logos/c2ea0863e4c8baba683f8c9807b02333.png" catchup-source="http://chopin.af-stream.com/viva-plus-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",VIVA+
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/viva-plus-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/74c1c0d13bf5172b80ddf344979cf483.png" catchup-source="http://chopin.af-stream.com/hot3-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",HOT 3 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot3-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-8-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/8ecc8229a90fce1c1181cb721bcb75dd.png" catchup-source="http://chopin.af-stream.com/hot-8-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",HOT 8 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-8-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-israel-il" tvg-logo="https://af-play.com/storage/images/pack_logos/90c2d68dea64bc092417cbb0b7d5c0c4.png" catchup-source="http://chopin.af-stream.com/yes-israel-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Yes Israeli
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-israel-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="turkish-dramas-plus-il" tvg-logo="https://af-play.com/storage/images/channel_logos/1c65fed11343bb717b76ca65e3ebb7a1.png" catchup-source="http://chopin.af-stream.com/turkish-dramas-plus-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Turkish Dramas Plus HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/turkish-dramas-plus-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="turkish-dramas2-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/312f2b1946fb303b4b5b83535649e24a.png" catchup-source="http://chopin.af-stream.com/turkish-dramas2-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Turkish Dramas 2 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/turkish-dramas2-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="turkish-dramas3-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/344ee81ac872815b7a1107833be75978.png" catchup-source="http://chopin.af-stream.com/turkish-dramas3-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Turkish Dramas 3 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/turkish-dramas3-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-bollywood-il" tvg-logo="https://af-play.com/storage/images/pack_logos/74e8c104904c99e7d7c2be832f2e43f7.png" catchup-source="http://chopin.af-stream.com/hot-bollywood-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Bollywood HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-bollywood-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-bolyshow-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/3ead93234cd8474bb15327a7ee2f907e.png" catchup-source="http://chopin.af-stream.com/hot-bolyshow-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",BollyShow HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-bolyshow-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="entertainment-il" tvg-logo="https://af-play.com/storage/images/pack_logos/d1a204c0caed85c4de60fa153a3d2391.png" catchup-source="http://chopin.af-stream.com/entertainment-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Entertainment HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/entertainment-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="e-il" tvg-logo="https://af-play.com/storage/images/pack_logos/79a7cd7f6cd0740aeea34b9809e451eb.png" catchup-source="http://chopin.af-stream.com/e-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",E! IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/e-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yamtihoni-il" tvg-logo="https://af-play.com/storage/images/channel_logos/c106807b0cc3b511840ea0ec2e804ca8.png" catchup-source="http://chopin.af-stream.com/yamtihoni-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Yam Tihoni HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yamtihoni-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yam-tichoni-plus-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/929a0fa393a3f2a01005f7db2550a4ba.png" catchup-source="http://chopin.af-stream.com/yam-tichoni-plus-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Yam Tichoni+ HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yam-tichoni-plus-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="channel24-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/a0e0197581415e7215c218e760b0404a.png" catchup-source="http://chopin.af-stream.com/channel24-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Channel 24 HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/channel24-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="makan33-il" tvg-logo="https://af-play.com/storage/images/pack_logos/1dc1386f767f0af09a6d6cb4d4228aa1.png" catchup-source="http://chopin.af-stream.com/makan33-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Mikan 33 HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/makan33-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="discovery-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/8a0720a45a9d32602894d1380152a7e7.png" catchup-source="http://chopin.af-stream.com/discovery-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Discovery HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/discovery-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="travel-channel-il" tvg-logo="https://af-play.com/storage/images/pack_logos/e43ce618a5987c2c96a9c855b50e7fd5.png" catchup-source="http://chopin.af-stream.com/travel-channel-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Travel Channel IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/travel-channel-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-docu-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/3488b39c041e8adca025c4fcb3f45efe.png" catchup-source="http://chopin.af-stream.com/yes-docu-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Docu HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-docu-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="home-plus-il" tvg-logo="https://af-play.com/storage/images/pack_logos/4cb28fd7f24a5a9ee7d3ddd113fab3c6.png" catchup-source="http://chopin.af-stream.com/home-plus-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Home Plus IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/home-plus-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="food-network-il" tvg-logo="https://af-play.com/storage/images/pack_logos/02e6f16947a374e7c70d644f0e9d25d0.png" catchup-source="http://chopin.af-stream.com/food-network-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Food Network HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/food-network-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="health-il" tvg-logo="https://af-play.com/storage/images/pack_logos/e7408202bfdb556e0b41b738fcffaa42.png" catchup-source="http://chopin.af-stream.com/health-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Health HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/health-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="good-life-il" tvg-logo="https://af-play.com/storage/images/pack_logos/c7f1484938622f7bc3dad0a6cf5c24a7.png" catchup-source="http://chopin.af-stream.com/good-life-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Good Life
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/good-life-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="cbs-reality-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0c9f62b9115c5b9eba2c122c3e1ed49c.png" catchup-source="http://chopin.af-stream.com/cbs-reality-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",CBS Reality IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/cbs-reality-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-real-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/73874c1f67371aa5467a9ed1a00433ca.png" catchup-source="http://chopin.af-stream.com/hot-real-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",HOT Real HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-real-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="sport1-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/0b7991265880a94f985149bf8ae3390a.png" catchup-source="http://chopin.af-stream.com/sport1-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Sport 1 HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/sport1-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="sport2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/036c7c47bfd5865243a627bdabdb99a9.png" catchup-source="http://chopin.af-stream.com/sport2-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Sport 2 HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/sport2-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="sport3-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/957ce5b9e2435ce07c2f52a688a50f03.png" catchup-source="http://chopin.af-stream.com/sport3-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Sport 3 HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/sport3-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="sport4-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/82f490d1762804589363a461344e0b68.png" catchup-source="http://chopin.af-stream.com/sport4-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Sport 4 HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/sport4-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="sport5-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/65dd4af6185b56b5b887588beb09e6e8.png" catchup-source="http://chopin.af-stream.com/sport5-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Sport 5 HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/sport5-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-sport5-plus-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/308a86c397eca474b8e39f67ea34c099.png" catchup-source="http://chopin.af-stream.com/yes-sport5-plus-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Sport 5+ HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-sport5-plus-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="sport5-plus-live-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/cf225e1fe8d65f718aca80e3ee0d6e2d.png" catchup-source="http://chopin.af-stream.com/sport5-plus-live-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Sport 5 Live HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/sport5-plus-live-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="sport5-stars-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/8774ff95bacd6c1043410115dd5411f1.png" catchup-source="http://chopin.af-stream.com/sport5-stars-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Sport 5 Stars HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/sport5-stars-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="one-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/3a24edb4006c59c281db73a8e5af25bf.png" catchup-source="http://chopin.af-stream.com/one-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",One HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/one-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="one2-hd-il" tvg-logo="https://af-play.com/storage/images/pack_logos/a54ed9c1b81f41539ab3d57a2af75a9b.png" catchup-source="http://chopin.af-stream.com/one2-hd-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",One 2 HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/one2-hd-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="ego-total-il" tvg-logo="https://af-play.com/storage/images/pack_logos/e812ef5439c74f18c56bbb2a2dfb96e7.png" catchup-source="http://chopin.af-stream.com/ego-total-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Ego Total
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/ego-total-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="humor-channel-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/f5b6f72ca81836795d74868f76c13e5d.png" catchup-source="http://chopin.af-stream.com/humor-channel-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Humor Channel HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/humor-channel-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hot-comedy-central-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/479ecd9c606cac2ebdfd10a7f5f1297d.png" catchup-source="http://chopin.af-stream.com/hot-comedy-central-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",HOT Comedy HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hot-comedy-central-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="cinema-family-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/348778647ec6325084144004ab73e6be.png" catchup-source="http://chopin.af-stream.com/cinema-family-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Cinema Family HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/cinema-family-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-disney-il-hd" tvg-logo="https://af-play.com/storage/images/pack_logos/8953d8d82f60ea411852c4b247f21198.png" catchup-source="http://chopin.af-stream.com/yes-disney-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Disney HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-disney-il-hd/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="disney-jr-il" tvg-logo="https://af-play.com/storage/images/pack_logos/c4c399d6bea7ec2406817deba1e07cb3.png" catchup-source="http://chopin.af-stream.com/disney-jr-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Disney Jr HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/disney-jr-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="yes-nickelodeon-il" tvg-logo="https://af-play.com/storage/images/pack_logos/4dfb96715faa830f426e254b5d7cb2a8.png" catchup-source="http://chopin.af-stream.com/yes-nickelodeon-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Nickelodeon IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/yes-nickelodeon-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="nick-jr-il" tvg-logo="https://af-play.com/storage/images/pack_logos/299e4bc068cbedf20b85e5cbb40023fd.png" catchup-source="http://chopin.af-stream.com/nick-jr-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Nick Jr IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/nick-jr-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="teennick-il" tvg-logo="https://af-play.com/storage/images/pack_logos/5aa1de58316eec08102daeeecd7c0940.png" catchup-source="http://chopin.af-stream.com/teennick-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",TeenNick IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/teennick-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="hop-childhood-il" tvg-logo="https://af-play.com/storage/images/pack_logos/f1cf7afb7d0b38cc1ca069774c9713eb.png" catchup-source="http://chopin.af-stream.com/hop-childhood-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",HOP
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/hop-childhood-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="luli-il" tvg-logo="https://af-play.com/storage/images/pack_logos/1e089dc3e45099a3093a2c7986f50243.png" catchup-source="http://chopin.af-stream.com/luli-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Luli
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/luli-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="baby-il" tvg-logo="https://af-play.com/storage/images/pack_logos/dfb1abd80b9a1255ce3d1acc72a4610b.png" catchup-source="http://chopin.af-stream.com/baby-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Baby IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/baby-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="zoom-il" tvg-logo="https://af-play.com/storage/images/pack_logos/cd45603c66f9ac15e446c15364b5a4ec.png" catchup-source="http://chopin.af-stream.com/zoom-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Zoom IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/zoom-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="kan23-il" tvg-logo="https://af-play.com/storage/images/pack_logos/8e37e18c472fa294b88b9f2431c0726d.png" catchup-source="http://chopin.af-stream.com/kan23-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",KAN23 IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/kan23-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="junior-il" tvg-logo="https://af-play.com/storage/images/pack_logos/c4afc4ff4c3bd8e9d7c6df6046d66850.png" catchup-source="http://chopin.af-stream.com/junior-il/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="7" catchup-days="7",Junior HD IL
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/junior-il/video.m3u8
+#EXTINF:0 group-title="Israel" tvg-id="music-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/e74ab1b6d7349cc3e01d0adce26465c0.png" catchup-source="http://chopin.af-stream.com/music-il-hd/video-${start}-${duration}.m3u8?token=vyz2onge" tvg-rec="0" catchup-days="0",Music HD
+#EXTGRP:Israel
+http://chopin.af-stream.com:1600/s/vyz2onge/music-il-hd/video.m3u8
